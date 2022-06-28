@@ -1,0 +1,98 @@
+body{
+   
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+
+}
+#name-highlite{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%
+}
+.botton{
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    padding: 9px 20px;
+   background-color: tomato;
+   border-radius: 5px
+   
+}
+.fast-banner{
+    background-image: url("imges/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-bottom: 150px;
+}
+.banner-two{
+    height: 500px;
+    padding-bottom: 150px;
+    display: block; 
+}
+.half-widgh{
+    width: 40%;
+    float: left;
+  
+   
+}
+.last-section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-widgh img{
+    
+    width: 100%;
+    
+}
+.resum{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.right-img{
+    background-position: right;
+    width:20%;
+    display: inline-block;
+    
+   
+}
+.fast-Experiences{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+    float: left;
+    box-shadow: 5px 7px 40px grey;
+    height: 80%;
+    border-left:7px solid orange ;
+
+}
+.secend-Experiences{
+    height: 80%;
+width: 40%;
+float: left;
+box-shadow: 5px 7px 40px grey;
+height: 80%;
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+border-left: 7px solid greenyellow;
+}
+.blank{
+    width: 20%;
+}
